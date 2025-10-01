@@ -1,6 +1,6 @@
 # Configuración en MacOS y Linux
 
-Ejecute los siguientes comandos en el terminal:
+Ejecute los siguiente  s comandos en el terminal:
 
 ```bash
 python3 -m venv .venv
